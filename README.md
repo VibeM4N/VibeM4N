@@ -1,4 +1,4 @@
-### Hey Hi , I am  - Vibe! 👋
+### Hey , I am  - Vibe! 👋
 
 
 <br />
