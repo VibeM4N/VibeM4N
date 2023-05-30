@@ -29,5 +29,5 @@
 
 ## ✨ Discord Profile
 <div align="center">
-    <img align="mid" height="100%" width="100%" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-1/457796506481721353.png">  
+    <img align="mid" height="50%" width="50%" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-1/457796506481721353.png">  
 </div>
