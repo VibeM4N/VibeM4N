@@ -8,7 +8,7 @@
 - 🐱‍👤 MERN Stack Developer!
 - 🐞 and a discord.js Develepor!
 - 💬 Ask me about anything on discord: Vibe#2025
-- 🥅 2023 Goals: Learn more programming languages
+- 🥅 2025 Goals: Learn more programming languages
 - 🐱‍🐉 Owner of Vibe Bot [Invite](https://discord.com/api/oauth2/authorize?client_id=962007275730505768&permissions=8&scope=bot%20applications.commands)
 
 
